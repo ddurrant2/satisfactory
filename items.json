@@ -1,0 +1,3326 @@
+{ 
+    "createdBy": "ddurrant2",
+    "lastUpdated": "2023-06-23",
+    "totalItems": 98,
+    "results": [
+        {
+            "Name:": "Adaptive Control Unit",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Automated Wiring",
+                            "QuantityPerMin": "7.5"
+                        },
+                        {
+                            "Name": "Circuit Board",
+                            "QuantityPerMin": "5"
+                        },
+                        {
+                            "Name": "Heavy Modular Frame",
+                            "QuantityPerMin": "1"
+                        },
+                        {
+                            "Name": "Computer",
+                            "QuantityPerMin": "1"
+                        }
+                    ],
+                    "Output": "1"
+                }
+            ]
+        },
+        {
+            "Name:": "AI Limiter",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Copper Sheet",
+                            "QuantityPerMin": "25"
+                        },
+                        {
+                            "Name": "Quickwire",
+                            "QuantityPerMin": "100"
+                        }
+                    ],
+                    "Output": "5"
+                }
+            ]
+        },
+        {
+            "Name:": "Alclad Aluminum Sheet",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Aluminum Ingot",
+                            "QuantityPerMin": "30"
+                        },
+                        {
+                            "Name": "Copper Ingot",
+                            "QuantityPerMin": "10"
+                        }
+                    ],
+                    "Output": "30"
+                }
+            ]
+        },
+        {
+            "Name:": "Alien DNA Capsule",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Alien Protein",
+                            "QuantityPerMin": "10"
+                        }
+                    ],
+                    "Output": "10"
+                }
+            ]
+        },
+        {
+            "Name:": "Alien Protein",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Hatcher Remains",
+                            "QuantityPerMin": "20"
+                        }
+                    ],
+                    "Output": "20"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Hog Remains",
+                            "QuantityPerMin": "20"
+                        }
+                    ],
+                    "Output": "20"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Plasma Spitter Remains",
+                            "QuantityPerMin": "20"
+                        }
+                    ],
+                    "Output": "20"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Stinger Remains",
+                            "QuantityPerMin": "20"
+                        }
+                    ],
+                    "Output": "20"
+                }
+            ]
+        },
+        {
+            "Name:": "Aluminum Casing",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Aluminum Ingot",
+                            "QuantityPerMin": "90"
+                        }
+                    ],
+                    "Output": "60"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Aluminum Ingot",
+                            "QuantityPerMin": "150"
+                        },
+                        {
+                            "Name": "Copper Ingot",
+                            "QuantityPerMin": "75"
+                        }
+                    ],
+                    "Output": "112.5"
+                }
+            ]
+        },
+        {
+            "Name:": "Aluminum Ingot",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Aluminum Scrap",
+                            "QuantityPerMin": "90"
+                        },
+                        {
+                            "Name": "Silica",
+                            "QuantityPerMin": "75"
+                        }
+                    ],
+                    "Output": "60"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Aluminum Scrap",
+                            "QuantityPerMin": "60"
+                        }
+                    ],
+                    "Output": "30"
+                }
+            ]
+        },
+        {
+            "Name:": "Aluminum Scrap",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Alumina Solution",
+                            "QuantityPerMin": "240"
+                        },
+                        {
+                            "Name": "Coal",
+                            "QuantityPerMin": "120"
+                        }
+                    ],
+                    "Output": "360"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Alumina Solution",
+                            "QuantityPerMin": "180"
+                        },
+                        {
+                            "Name": "Petroleum Coke",
+                            "QuantityPerMin": "60"
+                        }
+                    ],
+                    "Output": "300"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Bauxite",
+                            "QuantityPerMin": "150"
+                        },
+                        {
+                            "Name": "Coal",
+                            "QuantityPerMin": "100"
+                        },
+                        {
+                            "Name": "Sulfuric Acid",
+                            "QuantityPerMin": "50"
+                        },
+                        {
+                            "Name": "Water",
+                            "QuantityPerMin": "60"
+                        }
+                    ],
+                    "Output": "300"
+                }
+            ]
+        },
+        {
+            "Name:": "Assembly Director System",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Adaptive Control Unit",
+                            "QuantityPerMin": "1.5"
+                        },
+                        {
+                            "Name": "Supercomputer",
+                            "QuantityPerMin": "0.75"
+                        }
+                    ],
+                    "Output": "0.75"
+                }
+            ]
+        },
+        {
+            "Name:": "Automated Wiring",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Stator",
+                            "QuantityPerMin": "2.5"
+                        },
+                        {
+                            "Name": "Cable",
+                            "QuantityPerMin": "50"
+                        }
+                    ],
+                    "Output": "2.5"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Stator",
+                            "QuantityPerMin": "3.75"
+                        },
+                        {
+                            "Name": "Wire",
+                            "QuantityPerMin": "75"
+                        },
+                        {
+                            "Name": "High-Speed Connector",
+                            "QuantityPerMin": "1.875"
+                        }
+                    ],
+                    "Output": "7.5"
+                }
+            ]
+        },
+        {
+            "Name:": "Battery",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Sulfuric Acid",
+                            "QuantityPerMin": "50"
+                        },
+                        {
+                            "Name": "Alumina Solution",
+                            "QuantityPerMin": "40"
+                        },
+                        {
+                            "Name": "Aluminum Casing",
+                            "QuantityPerMin": "20"
+                        }
+                    ],
+                    "Output": "20"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Sulfur",
+                            "QuantityPerMin": "45"
+                        },
+                        {
+                            "Name": "Alclad Aluminum Sheet",
+                            "QuantityPerMin": "52.5"
+                        },
+                        {
+                            "Name": "Plastic",
+                            "QuantityPerMin": "60"
+                        },
+                        {
+                            "Name": "Wire",
+                            "QuantityPerMin": "90"
+                        }
+                    ],
+                    "Output": "30"
+                }
+            ]
+        },
+        {
+            "Name:": "Biomass",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Alien Protein",
+                            "QuantityPerMin": "15"
+                        }
+                    ],
+                    "Output": "1,500"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Leaves",
+                            "QuantityPerMin": "120"
+                        }
+                    ],
+                    "Output": "60"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Mycelia",
+                            "QuantityPerMin": "15"
+                        }
+                    ],
+                    "Output": "150"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Wood",
+                            "QuantityPerMin": "60"
+                        }
+                    ],
+                    "Output": "300"
+                }
+            ]
+        },
+        {
+            "Name:": "Black Powder",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Coal",
+                            "QuantityPerMin": "15"
+                        },
+                        {
+                            "Name": "Sulfur",
+                            "QuantityPerMin": "15"
+                        }
+                    ],
+                    "Output": "30"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Sulfur",
+                            "QuantityPerMin": "7.5"
+                        },
+                        {
+                            "Name": "Compacted Coal",
+                            "QuantityPerMin": "3.75"
+                        }
+                    ],
+                    "Output": "15"
+                }
+            ]
+        },
+        {
+            "Name:": "Cable",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Wire",
+                            "QuantityPerMin": "60"
+                        }
+                    ],
+                    "Output": "30"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Wire",
+                            "QuantityPerMin": "37.5"
+                        },
+                        {
+                            "Name": "Heavy Oil Residue",
+                            "QuantityPerMin": "15"
+                        }
+                    ],
+                    "Output": "67.5"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Wire",
+                            "QuantityPerMin": "45"
+                        },
+                        {
+                            "Name": "Rubber",
+                            "QuantityPerMin": "30"
+                        }
+                    ],
+                    "Output": "100"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Quickwire",
+                            "QuantityPerMin": "7.5"
+                        },
+                        {
+                            "Name": "Rubber",
+                            "QuantityPerMin": "5"
+                        }
+                    ],
+                    "Output": "27.5"
+                }
+            ]
+        },
+        {
+            "Name:": "Caterium Ingot",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Caterium Ore",
+                            "QuantityPerMin": "45"
+                        }
+                    ],
+                    "Output": "15"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Caterium Ore",
+                            "QuantityPerMin": "24"
+                        },
+                        {
+                            "Name": "Water",
+                            "QuantityPerMin": "24"
+                        }
+                    ],
+                    "Output": "12"
+                }
+            ]
+        },
+        {
+            "Name:": "Circuit Board",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Copper Sheet",
+                            "QuantityPerMin": "15"
+                        },
+                        {
+                            "Name": "Plastic",
+                            "QuantityPerMin": "30"
+                        }
+                    ],
+                    "Output": "7.5"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Plastic",
+                            "QuantityPerMin": "12.5"
+                        },
+                        {
+                            "Name": "Quickwire",
+                            "QuantityPerMin": "37.5"
+                        }
+                    ],
+                    "Output": "8.75"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Rubber",
+                            "QuantityPerMin": "30"
+                        },
+                        {
+                            "Name": "Petroleum Coke",
+                            "QuantityPerMin": "45"
+                        }
+                    ],
+                    "Output": "5"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Copper Sheet",
+                            "QuantityPerMin": "27.5"
+                        },
+                        {
+                            "Name": "Silica",
+                            "QuantityPerMin": "27.5"
+                        }
+                    ],
+                    "Output": "12.5"
+                }
+            ]
+        },
+        {
+            "Name:": "Coal",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Biomass",
+                            "QuantityPerMin": "37.5"
+                        }
+                    ],
+                    "Output": "45"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Wood",
+                            "QuantityPerMin": "15"
+                        }
+                    ],
+                    "Output": "150"
+                }
+            ]
+        },
+        {
+            "Name:": "Color Cartridge",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Flower Petals",
+                            "QuantityPerMin": "50"
+                        }
+                    ],
+                    "Output": "100"
+                }
+            ]
+        },
+        {
+            "Name:": "Compacted Coal",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Coal",
+                            "QuantityPerMin": "25"
+                        },
+                        {
+                            "Name": "Sulfur",
+                            "QuantityPerMin": "25"
+                        }
+                    ],
+                    "Output": "25"
+                }
+            ]
+        },
+        {
+            "Name:": "Computer",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Circuit Board",
+                            "QuantityPerMin": "25"
+                        },
+                        {
+                            "Name": "Cable",
+                            "QuantityPerMin": "22.5"
+                        },
+                        {
+                            "Name": "Plastic",
+                            "QuantityPerMin": "45"
+                        },
+                        {
+                            "Name": "Screw",
+                            "QuantityPerMin": "130"
+                        }
+                    ],
+                    "Output": "2.5"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Circuit Board",
+                            "QuantityPerMin": "26.25"
+                        },
+                        {
+                            "Name": "Quickwire",
+                            "QuantityPerMin": "105"
+                        },
+                        {
+                            "Name": "Rubber",
+                            "QuantityPerMin": "45"
+                        }
+                    ],
+                    "Output": "3.75"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Circuit Board",
+                            "QuantityPerMin": "7.5"
+                        },
+                        {
+                            "Name": "Crystal Oscillator",
+                            "QuantityPerMin": "2.8125"
+                        }
+                    ],
+                    "Output": "2.8125"
+                }
+            ]
+        },
+        {
+            "Name:": "Concrete",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Limestone",
+                            "QuantityPerMin": "45"
+                        }
+                    ],
+                    "Output": "15"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Silica",
+                            "QuantityPerMin": "7.5"
+                        },
+                        {
+                            "Name": "Limestone",
+                            "QuantityPerMin": "30"
+                        }
+                    ],
+                    "Output": "25"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Limestone",
+                            "QuantityPerMin": "50"
+                        },
+                        {
+                            "Name": "Rubber",
+                            "QuantityPerMin": "10"
+                        }
+                    ],
+                    "Output": "45"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Limestone",
+                            "QuantityPerMin": "120"
+                        },
+                        {
+                            "Name": "Water",
+                            "QuantityPerMin": "100"
+                        }
+                    ],
+                    "Output": "80"
+                }
+            ]
+        },
+        {
+            "Name:": "Cooling System",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Heat Sink",
+                            "QuantityPerMin": "12"
+                        },
+                        {
+                            "Name": "Rubber",
+                            "QuantityPerMin": "12"
+                        },
+                        {
+                            "Name": "Water",
+                            "QuantityPerMin": "30"
+                        },
+                        {
+                            "Name": "Nitrogen Gas",
+                            "QuantityPerMin": "150"
+                        }
+                    ],
+                    "Output": "6"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Heat Sink",
+                            "QuantityPerMin": "9.375"
+                        },
+                        {
+                            "Name": "Motor",
+                            "QuantityPerMin": "1.875"
+                        },
+                        {
+                            "Name": "Nitrogen Gas",
+                            "QuantityPerMin": "45"
+                        }
+                    ],
+                    "Output": "3.75"
+                }
+            ]
+        },
+        {
+            "Name:": "Copper Ingot",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Copper Ore",
+                            "QuantityPerMin": "30"
+                        }
+                    ],
+                    "Output": "30"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Copper Ore",
+                            "QuantityPerMin": "50"
+                        },
+                        {
+                            "Name": "Iron Ore",
+                            "QuantityPerMin": "25"
+                        }
+                    ],
+                    "Output": "100"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Copper Ore",
+                            "QuantityPerMin": "15"
+                        },
+                        {
+                            "Name": "Water",
+                            "QuantityPerMin": "10"
+                        }
+                    ],
+                    "Output": "37.5"
+                }
+            ]
+        },
+        {
+            "Name:": "Copper Powder",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Copper Ingot",
+                            "QuantityPerMin": "300"
+                        }
+                    ],
+                    "Output": "50"
+                }
+            ]
+        },
+        {
+            "Name:": "Copper Sheet",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Copper Ingot",
+                            "QuantityPerMin": "20"
+                        }
+                    ],
+                    "Output": "10"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Copper Ingot",
+                            "QuantityPerMin": "22.5"
+                        },
+                        {
+                            "Name": "Water",
+                            "QuantityPerMin": "22.5"
+                        }
+                    ],
+                    "Output": "22.5"
+                }
+            ]
+        },
+        {
+            "Name:": "Crystal Oscillator",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Quartz Crystal",
+                            "QuantityPerMin": "18"
+                        },
+                        {
+                            "Name": "Cable",
+                            "QuantityPerMin": "14"
+                        },
+                        {
+                            "Name": "Reinforced Iron Plate",
+                            "QuantityPerMin": "2.5"
+                        }
+                    ],
+                    "Output": "1"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Quartz Crystal",
+                            "QuantityPerMin": "18.75"
+                        },
+                        {
+                            "Name": "Rubber",
+                            "QuantityPerMin": "13.125"
+                        },
+                        {
+                            "Name": "AI Limiter",
+                            "QuantityPerMin": "1.875"
+                        }
+                    ],
+                    "Output": "1.875"
+                }
+            ]
+        },
+        {
+            "Name:": "Electromagnetic Control Rod",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Stator",
+                            "QuantityPerMin": "6"
+                        },
+                        {
+                            "Name": "AI Limiter",
+                            "QuantityPerMin": "4"
+                        }
+                    ],
+                    "Output": "4"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Stator",
+                            "QuantityPerMin": "8"
+                        },
+                        {
+                            "Name": "High-Speed Connector",
+                            "QuantityPerMin": "4"
+                        }
+                    ],
+                    "Output": "8"
+                }
+            ]
+        },
+        {
+            "Name:": "Empty Canister",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Plastic",
+                            "QuantityPerMin": "30"
+                        }
+                    ],
+                    "Output": "60"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Packaged Alumina Solution",
+                            "QuantityPerMin": "120"
+                        }
+                    ],
+                    "Output": "120"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Packaged Fuel",
+                            "QuantityPerMin": "60"
+                        }
+                    ],
+                    "Output": "60"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Packaged Heavy Oil Residue",
+                            "QuantityPerMin": "20"
+                        }
+                    ],
+                    "Output": "20"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Packaged Liquid Biofuel",
+                            "QuantityPerMin": "60"
+                        }
+                    ],
+                    "Output": "60"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Packaged Oil",
+                            "QuantityPerMin": "60"
+                        }
+                    ],
+                    "Output": "60"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Packaged Sulfuric Acid",
+                            "QuantityPerMin": "60"
+                        }
+                    ],
+                    "Output": "60"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Packaged Turbofuel",
+                            "QuantityPerMin": "20"
+                        }
+                    ],
+                    "Output": "20"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Packaged Water",
+                            "QuantityPerMin": "120"
+                        }
+                    ],
+                    "Output": "120"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Iron Plate",
+                            "QuantityPerMin": "30"
+                        },
+                        {
+                            "Name": "Copper Sheet",
+                            "QuantityPerMin": "15"
+                        }
+                    ],
+                    "Output": "60"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Steel Ingot",
+                            "QuantityPerMin": "60"
+                        }
+                    ],
+                    "Output": "40"
+                }
+            ]
+        },
+        {
+            "Name:": "Empty Fluid Tank",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Aluminum Ingot",
+                            "QuantityPerMin": "60"
+                        }
+                    ],
+                    "Output": "60"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Packaged Nitric Acid",
+                            "QuantityPerMin": "20"
+                        }
+                    ],
+                    "Output": "20"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Packaged Nitrogen Gas",
+                            "QuantityPerMin": "60"
+                        }
+                    ],
+                    "Output": "60"
+                }
+            ]
+        },
+        {
+            "Name:": "Encased Industrial Beam",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Steel Beam",
+                            "QuantityPerMin": "24"
+                        },
+                        {
+                            "Name": "Concrete",
+                            "QuantityPerMin": "30"
+                        }
+                    ],
+                    "Output": "6"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Steel Pipe",
+                            "QuantityPerMin": "28"
+                        },
+                        {
+                            "Name": "Concrete",
+                            "QuantityPerMin": "20"
+                        }
+                    ],
+                    "Output": "4"
+                }
+            ]
+        },
+        {
+            "Name:": "Encased Plutonium Cell",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Plutonium Pellet",
+                            "QuantityPerMin": "10"
+                        },
+                        {
+                            "Name": "Concrete",
+                            "QuantityPerMin": "20"
+                        }
+                    ],
+                    "Output": "5"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Non-fissile Uranium",
+                            "QuantityPerMin": "75"
+                        },
+                        {
+                            "Name": "Aluminum Casing",
+                            "QuantityPerMin": "10"
+                        }
+                    ],
+                    "Output": "10"
+                }
+            ]
+        },
+        {
+            "Name:": "Encased Uranium Cell",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Uranium",
+                            "QuantityPerMin": "50"
+                        },
+                        {
+                            "Name": "Concrete",
+                            "QuantityPerMin": "15"
+                        },
+                        {
+                            "Name": "Sulfuric Acid",
+                            "QuantityPerMin": "40"
+                        }
+                    ],
+                    "Output": "25"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Uranium",
+                            "QuantityPerMin": "25"
+                        },
+                        {
+                            "Name": "Silica",
+                            "QuantityPerMin": "15"
+                        },
+                        {
+                            "Name": "Sulfur",
+                            "QuantityPerMin": "25"
+                        },
+                        {
+                            "Name": "Quickwire",
+                            "QuantityPerMin": "75"
+                        }
+                    ],
+                    "Output": "20"
+                }
+            ]
+        },
+        {
+            "Name:": "Fabric",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Mycelia",
+                            "QuantityPerMin": "15"
+                        },
+                        {
+                            "Name": "Biomass",
+                            "QuantityPerMin": "75"
+                        }
+                    ],
+                    "Output": "15"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Polymer Resin",
+                            "QuantityPerMin": "30"
+                        },
+                        {
+                            "Name": "Water",
+                            "QuantityPerMin": "30"
+                        }
+                    ],
+                    "Output": "30"
+                }
+            ]
+        },
+        {
+            "Name:": "Fused Modular Frame",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Heavy Modular Frame",
+                            "QuantityPerMin": "1.5"
+                        },
+                        {
+                            "Name": "Aluminum Casing",
+                            "QuantityPerMin": "75"
+                        },
+                        {
+                            "Name": "Nitrogen Gas",
+                            "QuantityPerMin": "37.5"
+                        }
+                    ],
+                    "Output": "1.5"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Heavy Modular Frame",
+                            "QuantityPerMin": "3"
+                        },
+                        {
+                            "Name": "Aluminum Ingot",
+                            "QuantityPerMin": "150"
+                        },
+                        {
+                            "Name": "Nitric Acid",
+                            "QuantityPerMin": "24"
+                        },
+                        {
+                            "Name": "Fuel",
+                            "QuantityPerMin": "30"
+                        }
+                    ],
+                    "Output": "3"
+                }
+            ]
+        },
+        {
+            "Name:": "Heat Sink",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Alclad Aluminum Sheet",
+                            "QuantityPerMin": "37.5"
+                        },
+                        {
+                            "Name": "Copper Sheet",
+                            "QuantityPerMin": "22.5"
+                        }
+                    ],
+                    "Output": "7.5"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Aluminum Casing",
+                            "QuantityPerMin": "30"
+                        },
+                        {
+                            "Name": "Rubber",
+                            "QuantityPerMin": "30"
+                        }
+                    ],
+                    "Output": "10"
+                }
+            ]
+        },
+        {
+            "Name:": "Heavy Modular Frame",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Modular Frame",
+                            "QuantityPerMin": "10"
+                        },
+                        {
+                            "Name": "Steel Pipe",
+                            "QuantityPerMin": "30"
+                        },
+                        {
+                            "Name": "Encased Industrial Beam",
+                            "QuantityPerMin": "10"
+                        },
+                        {
+                            "Name": "Screw",
+                            "QuantityPerMin": "200"
+                        }
+                    ],
+                    "Output": "2"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Modular Frame",
+                            "QuantityPerMin": "7.5"
+                        },
+                        {
+                            "Name": "Encased Industrial Beam",
+                            "QuantityPerMin": "9.375"
+                        },
+                        {
+                            "Name": "Steel Pipe",
+                            "QuantityPerMin": "33.75"
+                        },
+                        {
+                            "Name": "Concrete",
+                            "QuantityPerMin": "20.625"
+                        }
+                    ],
+                    "Output": "2.8125"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Modular Frame",
+                            "QuantityPerMin": "18.75"
+                        },
+                        {
+                            "Name": "Encased Industrial Beam",
+                            "QuantityPerMin": "11.25"
+                        },
+                        {
+                            "Name": "Rubber",
+                            "QuantityPerMin": "75"
+                        },
+                        {
+                            "Name": "Screw",
+                            "QuantityPerMin": "390"
+                        }
+                    ],
+                    "Output": "3.75"
+                }
+            ]
+        },
+        {
+            "Name:": "High-Speed Connector",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Quickwire",
+                            "QuantityPerMin": "210"
+                        },
+                        {
+                            "Name": "Cable",
+                            "QuantityPerMin": "37.5"
+                        },
+                        {
+                            "Name": "Circuit Board",
+                            "QuantityPerMin": "3.75"
+                        }
+                    ],
+                    "Output": "3.75"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Quickwire",
+                            "QuantityPerMin": "90"
+                        },
+                        {
+                            "Name": "Silica",
+                            "QuantityPerMin": "37.5"
+                        },
+                        {
+                            "Name": "Circuit Board",
+                            "QuantityPerMin": "3"
+                        }
+                    ],
+                    "Output": "3"
+                }
+            ]
+        },
+        {
+            "Name:": "Iron Ingot",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Iron Ore",
+                            "QuantityPerMin": "30"
+                        }
+                    ],
+                    "Output": "30"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Iron Ore",
+                            "QuantityPerMin": "20"
+                        },
+                        {
+                            "Name": "Copper Ore",
+                            "QuantityPerMin": "20"
+                        }
+                    ],
+                    "Output": "50"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Iron Ore",
+                            "QuantityPerMin": "35"
+                        },
+                        {
+                            "Name": "Water",
+                            "QuantityPerMin": "20"
+                        }
+                    ],
+                    "Output": "65"
+                }
+            ]
+        },
+        {
+            "Name:": "Iron Plate",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Iron Ingot",
+                            "QuantityPerMin": "30"
+                        }
+                    ],
+                    "Output": "20"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Iron Ingot",
+                            "QuantityPerMin": "50"
+                        },
+                        {
+                            "Name": "Plastic",
+                            "QuantityPerMin": "10"
+                        }
+                    ],
+                    "Output": "75"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Steel Ingot",
+                            "QuantityPerMin": "7.5"
+                        },
+                        {
+                            "Name": "Plastic",
+                            "QuantityPerMin": "5"
+                        }
+                    ],
+                    "Output": "45"
+                }
+            ]
+        },
+        {
+            "Name:": "Iron Rod",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Iron Ingot",
+                            "QuantityPerMin": "15"
+                        }
+                    ],
+                    "Output": "15"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Steel Ingot",
+                            "QuantityPerMin": "12"
+                        }
+                    ],
+                    "Output": "48"
+                }
+            ]
+        },
+        {
+            "Name:": "Magnetic Field Generator",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Versatile Framework",
+                            "QuantityPerMin": "2.5"
+                        },
+                        {
+                            "Name": "Electromagnetic Control Rod",
+                            "QuantityPerMin": "1"
+                        },
+                        {
+                            "Name": "Battery",
+                            "QuantityPerMin": "5"
+                        }
+                    ],
+                    "Output": "1"
+                }
+            ]
+        },
+        {
+            "Name:": "Modular Engine",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Motor",
+                            "QuantityPerMin": "2"
+                        },
+                        {
+                            "Name": "Rubber",
+                            "QuantityPerMin": "15"
+                        },
+                        {
+                            "Name": "Smart Plating",
+                            "QuantityPerMin": "2"
+                        }
+                    ],
+                    "Output": "1"
+                }
+            ]
+        },
+        {
+            "Name:": "Modular Frame",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Heavy Modular Frame",
+                            "QuantityPerMin": "1.5"
+                        },
+                        {
+                            "Name": "Aluminum Casing",
+                            "QuantityPerMin": "75"
+                        },
+                        {
+                            "Name": "Nitrogen Gas",
+                            "QuantityPerMin": "37.5"
+                        }
+                    ],
+                    "Output": "1.5"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Heavy Modular Frame",
+                            "QuantityPerMin": "3"
+                        },
+                        {
+                            "Name": "Aluminum Ingot",
+                            "QuantityPerMin": "150"
+                        },
+                        {
+                            "Name": "Nitric Acid",
+                            "QuantityPerMin": "24"
+                        },
+                        {
+                            "Name": "Fuel",
+                            "QuantityPerMin": "30"
+                        }
+                    ],
+                    "Output": "3"
+                }
+            ]
+        },
+        {
+            "Name:": "Motor",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Rotor",
+                            "QuantityPerMin": "10"
+                        },
+                        {
+                            "Name": "Stator",
+                            "QuantityPerMin": "10"
+                        }
+                    ],
+                    "Output": "5"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Electromagnetic Control Rod",
+                            "QuantityPerMin": "3.75"
+                        },
+                        {
+                            "Name": "Rotor",
+                            "QuantityPerMin": "7.5"
+                        }
+                    ],
+                    "Output": "7.5"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Rotor",
+                            "QuantityPerMin": "3.75"
+                        },
+                        {
+                            "Name": "Stator",
+                            "QuantityPerMin": "3.75"
+                        },
+                        {
+                            "Name": "Crystal Oscillator",
+                            "QuantityPerMin": "1.25"
+                        }
+                    ],
+                    "Output": "7.5"
+                }
+            ]
+        },
+        {
+            "Name:": "Non-fissile Uranium",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Uranium Waste",
+                            "QuantityPerMin": "37.5"
+                        },
+                        {
+                            "Name": "Silica",
+                            "QuantityPerMin": "25"
+                        },
+                        {
+                            "Name": "Nitric Acid",
+                            "QuantityPerMin": "15"
+                        },
+                        {
+                            "Name": "Sulfuric Acid",
+                            "QuantityPerMin": "15"
+                        }
+                    ],
+                    "Output": "50"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Uranium",
+                            "QuantityPerMin": "25"
+                        },
+                        {
+                            "Name": "Uranium Waste",
+                            "QuantityPerMin": "25"
+                        },
+                        {
+                            "Name": "Nitric Acid",
+                            "QuantityPerMin": "15"
+                        },
+                        {
+                            "Name": "Sulfuric Acid",
+                            "QuantityPerMin": "25"
+                        }
+                    ],
+                    "Output": "100"
+                }
+            ]
+        },
+        {
+            "Name:": "Nuclear Pasta",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Copper Powder",
+                            "QuantityPerMin": "100"
+                        },
+                        {
+                            "Name": "Pressure Conversion Cube",
+                            "QuantityPerMin": "0.5"
+                        }
+                    ],
+                    "Output": "0.5"
+                }
+            ]
+        },
+        {
+            "Name:": "Packaged Alumina Solution",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Alumina Solution",
+                            "QuantityPerMin": "120"
+                        },
+                        {
+                            "Name": "Empty Canister",
+                            "QuantityPerMin": "120"
+                        }
+                    ],
+                    "Output": "120"
+                }
+            ]
+        },
+        {
+            "Name:": "Packaged Fuel",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Fuel",
+                            "QuantityPerMin": "40"
+                        },
+                        {
+                            "Name": "Empty Canister",
+                            "QuantityPerMin": "40"
+                        }
+                    ],
+                    "Output": "40"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Heavy Oil Residue",
+                            "QuantityPerMin": "30"
+                        },
+                        {
+                            "Name": "Packaged Water",
+                            "QuantityPerMin": "60"
+                        }
+                    ],
+                    "Output": "60"
+                }
+            ]
+        },
+        {
+            "Name:": "Packaged Heavy Oil Residue",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Heavy Oil Residue",
+                            "QuantityPerMin": "30"
+                        },
+                        {
+                            "Name": "Empty Canister",
+                            "QuantityPerMin": "30"
+                        }
+                    ],
+                    "Output": "30"
+                }
+            ]
+        },
+        {
+            "Name:": "Packaged Liquid Biofuel",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Liquid Biofuel",
+                            "QuantityPerMin": "40"
+                        },
+                        {
+                            "Name": "Empty Canister",
+                            "QuantityPerMin": "40"
+                        }
+                    ],
+                    "Output": "40"
+                }
+            ]
+        },
+        {
+            "Name:": "Packaged Nitric Acid",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Nitric Acid",
+                            "QuantityPerMin": "30"
+                        },
+                        {
+                            "Name": "Empty Fluid Tank",
+                            "QuantityPerMin": "30"
+                        }
+                    ],
+                    "Output": "30"
+                }
+            ]
+        },
+        {
+            "Name:": "Packaged Nitrogen Gas",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Nitrogen Gas",
+                            "QuantityPerMin": "240"
+                        },
+                        {
+                            "Name": "Empty Fluid Tank",
+                            "QuantityPerMin": "60"
+                        }
+                    ],
+                    "Output": "60"
+                }
+            ]
+        },
+        {
+            "Name:": "Packaged Oil",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Crude Oil",
+                            "QuantityPerMin": "30"
+                        },
+                        {
+                            "Name": "Empty Canister",
+                            "QuantityPerMin": "30"
+                        }
+                    ],
+                    "Output": "30"
+                }
+            ]
+        },
+        {
+            "Name:": "Packaged Sulfuric Acid",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Sulfuric Acid",
+                            "QuantityPerMin": "40"
+                        },
+                        {
+                            "Name": "Empty Canister",
+                            "QuantityPerMin": "40"
+                        }
+                    ],
+                    "Output": "40"
+                }
+            ]
+        },
+        {
+            "Name:": "Packaged Turbofuel",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Turbofuel",
+                            "QuantityPerMin": "20"
+                        },
+                        {
+                            "Name": "Empty Canister",
+                            "QuantityPerMin": "20"
+                        }
+                    ],
+                    "Output": "20"
+                }
+            ]
+        },
+        {
+            "Name:": "Packaged Water",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Water",
+                            "QuantityPerMin": "60"
+                        },
+                        {
+                            "Name": "Empty Canister",
+                            "QuantityPerMin": "60"
+                        }
+                    ],
+                    "Output": "60"
+                }
+            ]
+        },
+        {
+            "Name:": "Petroleum Coke",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Heavy Oil Residue",
+                            "QuantityPerMin": "40"
+                        }
+                    ],
+                    "Output": "120"
+                }
+            ]
+        },
+        {
+            "Name:": "Plastic",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Crude Oil",
+                            "QuantityPerMin": "30"
+                        }
+                    ],
+                    "Output": "20"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Polymer Resin",
+                            "QuantityPerMin": "60"
+                        },
+                        {
+                            "Name": "Water",
+                            "QuantityPerMin": "20"
+                        }
+                    ],
+                    "Output": "20"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Rubber",
+                            "QuantityPerMin": "30"
+                        },
+                        {
+                            "Name": "Fuel",
+                            "QuantityPerMin": "30"
+                        }
+                    ],
+                    "Output": "60"
+                }
+            ]
+        },
+        {
+            "Name:": "Plutonium Fuel Rod",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Encased Plutonium Cell",
+                            "QuantityPerMin": "7.5"
+                        },
+                        {
+                            "Name": "Steel Beam",
+                            "QuantityPerMin": "4.5"
+                        },
+                        {
+                            "Name": "Electromagnetic Control Rod",
+                            "QuantityPerMin": "1.5"
+                        },
+                        {
+                            "Name": "Heat Sink",
+                            "QuantityPerMin": "2.5"
+                        }
+                    ],
+                    "Output": "0.25"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Encased Plutonium Cell",
+                            "QuantityPerMin": "10"
+                        },
+                        {
+                            "Name": "Pressure Conversion Cube",
+                            "QuantityPerMin": "0.5"
+                        }
+                    ],
+                    "Output": "0.5"
+                }
+            ]
+        },
+        {
+            "Name:": "Plutonium Pellet",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Non-fissile Uranium",
+                            "QuantityPerMin": "100"
+                        },
+                        {
+                            "Name": "Uranium Waste",
+                            "QuantityPerMin": "25"
+                        }
+                    ],
+                    "Output": "30"
+                }
+            ]
+        },
+        {
+            "Name:": "Plutonium Waste",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Plutonium Fuel Rod",
+                            "QuantityPerMin": "0.1"
+                        },
+                        {
+                            "Name": "Water",
+                            "QuantityPerMin": "240"
+                        }
+                    ],
+                    "Output": "1"
+                }
+            ]
+        },
+        {
+            "Name:": "Polymer Resin",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Crude Oil",
+                            "QuantityPerMin": "60"
+                        }
+                    ],
+                    "Output": "30"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Crude Oil",
+                            "QuantityPerMin": "30"
+                        }
+                    ],
+                    "Output": "20"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Crude Oil",
+                            "QuantityPerMin": "60"
+                        }
+                    ],
+                    "Output": "130"
+                }
+            ]
+        },
+        {
+            "Name:": "Power Shard",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Blue Power Slug",
+                            "QuantityPerMin": "7.5"
+                        }
+                    ],
+                    "Output": "7.5"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Yellow Power Slug",
+                            "QuantityPerMin": "5"
+                        }
+                    ],
+                    "Output": "10"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Purple Power Slug",
+                            "QuantityPerMin": "2.5"
+                        }
+                    ],
+                    "Output": "12.5"
+                }
+            ]
+        },
+        {
+            "Name:": "Pressure Conversion Cube",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Fused Modular Frame",
+                            "QuantityPerMin": "1"
+                        },
+                        {
+                            "Name": "Radio Control Unit",
+                            "QuantityPerMin": "2"
+                        }
+                    ],
+                    "Output": "1"
+                }
+            ]
+        },
+        {
+            "Name:": "Quartz Crystal",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Raw Quartz",
+                            "QuantityPerMin": "37.5"
+                        }
+                    ],
+                    "Output": "22.5"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Raw Quartz",
+                            "QuantityPerMin": "67.5"
+                        },
+                        {
+                            "Name": "Water",
+                            "QuantityPerMin": "37.5"
+                        }
+                    ],
+                    "Output": "52.5"
+                }
+            ]
+        },
+        {
+            "Name:": "Quickwire",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Caterium Ingot",
+                            "QuantityPerMin": "12"
+                        }
+                    ],
+                    "Output": "60"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Caterium Ingot",
+                            "QuantityPerMin": "7.5"
+                        },
+                        {
+                            "Name": "Copper Ingot",
+                            "QuantityPerMin": "37.5"
+                        }
+                    ],
+                    "Output": "90"
+                }
+            ]
+        },
+        {
+            "Name:": "Radio Control Unit",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Aluminum Casing",
+                            "QuantityPerMin": "40"
+                        },
+                        {
+                            "Name": "Crystal Oscillator",
+                            "QuantityPerMin": "1.25"
+                        },
+                        {
+                            "Name": "Computer",
+                            "QuantityPerMin": "1.25"
+                        }
+                    ],
+                    "Output": "2.5"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Heat Sink",
+                            "QuantityPerMin": "15"
+                        },
+                        {
+                            "Name": "High-Speed Connector",
+                            "QuantityPerMin": "7.5"
+                        },
+                        {
+                            "Name": "Quartz Crystal",
+                            "QuantityPerMin": "45"
+                        }
+                    ],
+                    "Output": "3.75"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Crystal Oscillator",
+                            "QuantityPerMin": "1.5"
+                        },
+                        {
+                            "Name": "Circuit Board",
+                            "QuantityPerMin": "15"
+                        },
+                        {
+                            "Name": "Aluminum Casing",
+                            "QuantityPerMin": "90"
+                        },
+                        {
+                            "Name": "Rubber",
+                            "QuantityPerMin": "45"
+                        }
+                    ],
+                    "Output": "4.5"
+                }
+            ]
+        },
+        {
+            "Name:": "Reinforced Iron Plate",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Iron Plate",
+                            "QuantityPerMin": "30"
+                        },
+                        {
+                            "Name": "Screw",
+                            "QuantityPerMin": "60"
+                        }
+                    ],
+                    "Output": "5"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Iron Plate",
+                            "QuantityPerMin": "11.25"
+                        },
+                        {
+                            "Name": "Rubber",
+                            "QuantityPerMin": "3.75"
+                        }
+                    ],
+                    "Output": "3.75"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Iron Plate",
+                            "QuantityPerMin": "90"
+                        },
+                        {
+                            "Name": "Screw",
+                            "QuantityPerMin": "250"
+                        }
+                    ],
+                    "Output": "15"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Iron Plate",
+                            "QuantityPerMin": "18.75"
+                        },
+                        {
+                            "Name": "Wire",
+                            "QuantityPerMin": "37.5"
+                        }
+                    ],
+                    "Output": "5.625"
+                }
+            ]
+        },
+        {
+            "Name:": "Rotor",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Iron Rod",
+                            "QuantityPerMin": "20"
+                        },
+                        {
+                            "Name": "Screw",
+                            "QuantityPerMin": "100"
+                        }
+                    ],
+                    "Output": "4"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Copper Sheet",
+                            "QuantityPerMin": "22.5"
+                        },
+                        {
+                            "Name": "Screw",
+                            "QuantityPerMin": "195"
+                        }
+                    ],
+                    "Output": "11.25"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Steel Pipe",
+                            "QuantityPerMin": "10"
+                        },
+                        {
+                            "Name": "Wire",
+                            "QuantityPerMin": "30"
+                        }
+                    ],
+                    "Output": "5"
+                }
+            ]
+        },
+        {
+            "Name:": "Rubber",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Polymer Resin",
+                            "QuantityPerMin": "40"
+                        },
+                        {
+                            "Name": "Water",
+                            "QuantityPerMin": "40"
+                        }
+                    ],
+                    "Output": "20"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Crude Oil",
+                            "QuantityPerMin": "30"
+                        }
+                    ],
+                    "Output": "20"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Plastic",
+                            "QuantityPerMin": "30"
+                        },
+                        {
+                            "Name": "Fuel",
+                            "QuantityPerMin": "30"
+                        }
+                    ],
+                    "Output": "60"
+                }
+            ]
+        },
+        {
+            "Name:": "Screw",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Iron Rod",
+                            "QuantityPerMin": "10"
+                        }
+                    ],
+                    "Output": "40"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Iron Ingot",
+                            "QuantityPerMin": "12.5"
+                        }
+                    ],
+                    "Output": "50"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Steel Beam",
+                            "QuantityPerMin": "5"
+                        }
+                    ],
+                    "Output": "260"
+                }
+            ]
+        },
+        {
+            "Name:": "Silica",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Bauxite",
+                            "QuantityPerMin": "120"
+                        },
+                        {
+                            "Name": "Water",
+                            "QuantityPerMin": "180"
+                        }
+                    ],
+                    "Output": "50"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Raw Quartz",
+                            "QuantityPerMin": "22.5"
+                        }
+                    ],
+                    "Output": "37.5"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Raw Quartz",
+                            "QuantityPerMin": "11.25"
+                        },
+                        {
+                            "Name": "Limestone",
+                            "QuantityPerMin": "18.75"
+                        }
+                    ],
+                    "Output": "26.25"
+                }
+            ]
+        },
+        {
+            "Name:": "Smart Plating",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Reinforced Iron Plate",
+                            "QuantityPerMin": "2"
+                        },
+                        {
+                            "Name": "Rotor",
+                            "QuantityPerMin": "2"
+                        }
+                    ],
+                    "Output": "2"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Reinforced Iron Plate",
+                            "QuantityPerMin": "2.5"
+                        },
+                        {
+                            "Name": "Rotor",
+                            "QuantityPerMin": "2.5"
+                        },
+                        {
+                            "Name": "Plastic",
+                            "QuantityPerMin": "7.5"
+                        }
+                    ],
+                    "Output": "5"
+                }
+            ]
+        },
+        {
+            "Name:": "Smokeless Powder",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Black Powder",
+                            "QuantityPerMin": "20"
+                        },
+                        {
+                            "Name": "Heavy Oil Residue",
+                            "QuantityPerMin": "10"
+                        }
+                    ],
+                    "Output": "20"
+                }
+            ]
+        },
+        {
+            "Name:": "Solid Biofuel",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Biomass",
+                            "QuantityPerMin": "120"
+                        }
+                    ],
+                    "Output": "60"
+                }
+            ]
+        },
+        {
+            "Name:": "Stator",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Steel Pipe",
+                            "QuantityPerMin": "15"
+                        },
+                        {
+                            "Name": "Wire",
+                            "QuantityPerMin": "40"
+                        }
+                    ],
+                    "Output": "5"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Steel Pipe",
+                            "QuantityPerMin": "16"
+                        },
+                        {
+                            "Name": "Quickwire",
+                            "QuantityPerMin": "60"
+                        }
+                    ],
+                    "Output": "8"
+                }
+            ]
+        },
+        {
+            "Name:": "Steel Beam",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Steel Ingot",
+                            "QuantityPerMin": "60"
+                        }
+                    ],
+                    "Output": "15"
+                }
+            ]
+        },
+        {
+            "Name:": "Steel Ingot",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Iron Ore",
+                            "QuantityPerMin": "45"
+                        },
+                        {
+                            "Name": "Coal",
+                            "QuantityPerMin": "45"
+                        }
+                    ],
+                    "Output": "45"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Iron Ore",
+                            "QuantityPerMin": "75"
+                        },
+                        {
+                            "Name": "Petroleum Coke",
+                            "QuantityPerMin": "75"
+                        }
+                    ],
+                    "Output": "100"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Iron Ore",
+                            "QuantityPerMin": "22.5"
+                        },
+                        {
+                            "Name": "Compacted Coal",
+                            "QuantityPerMin": "11.25"
+                        }
+                    ],
+                    "Output": "37.5"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Iron Ingot",
+                            "QuantityPerMin": "40"
+                        },
+                        {
+                            "Name": "Coal",
+                            "QuantityPerMin": "40"
+                        }
+                    ],
+                    "Output": "60"
+                }
+            ]
+        },
+        {
+            "Name:": "Steel Pipe",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Steel Ingot",
+                            "QuantityPerMin": "30"
+                        }
+                    ],
+                    "Output": "20"
+                }
+            ]
+        },
+        {
+            "Name:": "Supercomputer",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Computer",
+                            "QuantityPerMin": "3.75"
+                        },
+                        {
+                            "Name": "AI Limiter",
+                            "QuantityPerMin": "3.75"
+                        },
+                        {
+                            "Name": "High-Speed Connector",
+                            "QuantityPerMin": "5.625"
+                        },
+                        {
+                            "Name": "Plastic",
+                            "QuantityPerMin": "52.5"
+                        }
+                    ],
+                    "Output": "1.875"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Radio Control Unit",
+                            "QuantityPerMin": "9"
+                        },
+                        {
+                            "Name": "Cooling System",
+                            "QuantityPerMin": "9"
+                        }
+                    ],
+                    "Output": "3"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Computer",
+                            "QuantityPerMin": "3.6"
+                        },
+                        {
+                            "Name": "Electromagnetic Control Rod",
+                            "QuantityPerMin": "2.4"
+                        },
+                        {
+                            "Name": "Battery",
+                            "QuantityPerMin": "24"
+                        },
+                        {
+                            "Name": "Wire",
+                            "QuantityPerMin": "54"
+                        }
+                    ],
+                    "Output": "2.4"
+                }
+            ]
+        },
+        {
+            "Name:": "Thermal Propulsion Rocket",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Modular Engine",
+                            "QuantityPerMin": "2.5"
+                        },
+                        {
+                            "Name": "Turbo Motor",
+                            "QuantityPerMin": "1"
+                        },
+                        {
+                            "Name": "Cooling System",
+                            "QuantityPerMin": "3"
+                        },
+                        {
+                            "Name": "Fused Modular Frame",
+                            "QuantityPerMin": "1"
+                        }
+                    ],
+                    "Output": "1"
+                }
+            ]
+        },
+        {
+            "Name:": "Turbo Motor",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Cooling System",
+                            "QuantityPerMin": "7.5"
+                        },
+                        {
+                            "Name": "Radio Control Unit",
+                            "QuantityPerMin": "3.75"
+                        },
+                        {
+                            "Name": "Motor",
+                            "QuantityPerMin": "7.5"
+                        },
+                        {
+                            "Name": "Rubber",
+                            "QuantityPerMin": "45"
+                        }
+                    ],
+                    "Output": "1.875"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Motor",
+                            "QuantityPerMin": "6.5625"
+                        },
+                        {
+                            "Name": "Radio Control Unit",
+                            "QuantityPerMin": "8.4375"
+                        },
+                        {
+                            "Name": "Electromagnetic Control Rod",
+                            "QuantityPerMin": "4.6875"
+                        },
+                        {
+                            "Name": "Rotor",
+                            "QuantityPerMin": "6.5625"
+                        }
+                    ],
+                    "Output": "2.8125"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Motor",
+                            "QuantityPerMin": "7.5"
+                        },
+                        {
+                            "Name": "Pressure Conversion Cube",
+                            "QuantityPerMin": "1.875"
+                        },
+                        {
+                            "Name": "Packaged Nitrogen Gas",
+                            "QuantityPerMin": "45"
+                        },
+                        {
+                            "Name": "Stator",
+                            "QuantityPerMin": "15"
+                        }
+                    ],
+                    "Output": "3.75"
+                }
+            ]
+        },
+        {
+            "Name:": "Turbofuel",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Turbofuel",
+                            "QuantityPerMin": "20"
+                        },
+                        {
+                            "Name": "Empty Canister",
+                            "QuantityPerMin": "20"
+                        }
+                    ],
+                    "Output": "20"
+                }
+            ]
+        },
+        {
+            "Name:": "Uranium Fuel Rod",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Encased Uranium Cell",
+                            "QuantityPerMin": "20"
+                        },
+                        {
+                            "Name": "Encased Industrial Beam",
+                            "QuantityPerMin": "1.2"
+                        },
+                        {
+                            "Name": "Electromagnetic Control Rod",
+                            "QuantityPerMin": "2"
+                        }
+                    ],
+                    "Output": "0.4"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Encased Uranium Cell",
+                            "QuantityPerMin": "20"
+                        },
+                        {
+                            "Name": "Electromagnetic Control Rod",
+                            "QuantityPerMin": "2"
+                        },
+                        {
+                            "Name": "Crystal Oscillator",
+                            "QuantityPerMin": "0.6"
+                        },
+                        {
+                            "Name": "Beacon",
+                            "QuantityPerMin": "1.2"
+                        }
+                    ],
+                    "Output": "0.6"
+                }
+            ]
+        },
+        {
+            "Name:": "Uranium Waste",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Uranium Fuel Rod",
+                            "QuantityPerMin": "0.2"
+                        },
+                        {
+                            "Name": "Water",
+                            "QuantityPerMin": "240"
+                        }
+                    ],
+                    "Output": "10"
+                }
+            ]
+        },
+        {
+            "Name:": "Versatile Framework",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Modular Frame",
+                            "QuantityPerMin": "2.5"
+                        },
+                        {
+                            "Name": "Steel Beam",
+                            "QuantityPerMin": "30"
+                        }
+                    ],
+                    "Output": "5"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Modular Frame",
+                            "QuantityPerMin": "3.75"
+                        },
+                        {
+                            "Name": "Steel Beam",
+                            "QuantityPerMin": "22.5"
+                        },
+                        {
+                            "Name": "Rubber",
+                            "QuantityPerMin": "30"
+                        }
+                    ],
+                    "Output": "7.5"
+                }
+            ]
+        },
+        {
+            "Name:": "Wire",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Copper Ingot",
+                            "QuantityPerMin": "15"
+                        }
+                    ],
+                    "Output": "30"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Caterium Ingot",
+                            "QuantityPerMin": "15"
+                        }
+                    ],
+                    "Output": "120"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Copper Ingot",
+                            "QuantityPerMin": "12"
+                        },
+                        {
+                            "Name": "Caterium Ingot",
+                            "QuantityPerMin": "3"
+                        }
+                    ],
+                    "Output": "90"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Iron Ingot",
+                            "QuantityPerMin": "12.5"
+                        }
+                    ],
+                    "Output": "22.5"
+                }
+            ]
+        },
+        {
+            "Name:": "Alumina Solution",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Bauxite",
+                            "QuantityPerMin": "120"
+                        },
+                        {
+                            "Name": "Water",
+                            "QuantityPerMin": "180"
+                        }
+                    ],
+                    "Output": "120"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Packaged Alumina Solution",
+                            "QuantityPerMin": "120"
+                        }
+                    ],
+                    "Output": "120"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Bauxite",
+                            "QuantityPerMin": "200"
+                        },
+                        {
+                            "Name": "Water",
+                            "QuantityPerMin": "200"
+                        }
+                    ],
+                    "Output": "240"
+                }
+            ]
+        },
+        {
+            "Name:": "Crude Oil",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Packaged Oil",
+                            "QuantityPerMin": "60"
+                        }
+                    ],
+                    "Output": "60"
+                }
+            ]
+        },
+        {
+            "Name:": "Fuel",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Crude Oil",
+                            "QuantityPerMin": "60"
+                        }
+                    ],
+                    "Output": "40"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Heavy Oil Residue",
+                            "QuantityPerMin": "60"
+                        }
+                    ],
+                    "Output": "40"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Packaged Fuel",
+                            "QuantityPerMin": "60"
+                        }
+                    ],
+                    "Output": "60"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Heavy Oil Residue",
+                            "QuantityPerMin": "50"
+                        },
+                        {
+                            "Name": "Water",
+                            "QuantityPerMin": "100"
+                        }
+                    ],
+                    "Output": "100"
+                }
+            ]
+        },
+        {
+            "Name:": "Heavy Oil Residue",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Crude Oil",
+                            "QuantityPerMin": "30"
+                        }
+                    ],
+                    "Output": "10"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Crude Oil",
+                            "QuantityPerMin": "30"
+                        }
+                    ],
+                    "Output": "20"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Packaged Heavy Oil Residue",
+                            "QuantityPerMin": "20"
+                        }
+                    ],
+                    "Output": "20"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Crude Oil",
+                            "QuantityPerMin": "30"
+                        }
+                    ],
+                    "Output": "40"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Crude Oil",
+                            "QuantityPerMin": "60"
+                        }
+                    ],
+                    "Output": "20"
+                }
+            ]
+        },
+        {
+            "Name:": "Liquid Biofuel",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Solid Biofuel",
+                            "QuantityPerMin": "90"
+                        },
+                        {
+                            "Name": "Water",
+                            "QuantityPerMin": "45"
+                        }
+                    ],
+                    "Output": "60"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Packaged Liquid Biofuel",
+                            "QuantityPerMin": "60"
+                        }
+                    ],
+                    "Output": "60"
+                }
+            ]
+        },
+        {
+            "Name:": "Nitric Acid",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Nitrogen Gas",
+                            "QuantityPerMin": "120"
+                        },
+                        {
+                            "Name": "Water",
+                            "QuantityPerMin": "30"
+                        },
+                        {
+                            "Name": "Iron Plate",
+                            "QuantityPerMin": "10"
+                        }
+                    ],
+                    "Output": "30"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Packaged Nitric Acid",
+                            "QuantityPerMin": "20"
+                        }
+                    ],
+                    "Output": "20"
+                }
+            ]
+        },
+        {
+            "Name:": "Nitrogen Gas",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Packaged Nitrogen Gas",
+                            "QuantityPerMin": "60"
+                        }
+                    ],
+                    "Output": "240"
+                }
+            ]
+        },
+        {
+            "Name:": "Sulfuric Acid",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Uranium",
+                            "QuantityPerMin": "50"
+                        },
+                        {
+                            "Name": "Concrete",
+                            "QuantityPerMin": "15"
+                        },
+                        {
+                            "Name": "Sulfuric Acid",
+                            "QuantityPerMin": "40"
+                        }
+                    ],
+                    "Output": "10"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Sulfur",
+                            "QuantityPerMin": "50"
+                        },
+                        {
+                            "Name": "Water",
+                            "QuantityPerMin": "50"
+                        }
+                    ],
+                    "Output": "50"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Packaged Sulfuric Acid",
+                            "QuantityPerMin": "60"
+                        }
+                    ],
+                    "Output": "60"
+                }
+            ]
+        },
+        {
+            "Name:": "Turbofuel",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Packaged Turbofuel",
+                            "QuantityPerMin": "20"
+                        }
+                    ],
+                    "Output": "20"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Fuel",
+                            "QuantityPerMin": "15"
+                        },
+                        {
+                            "Name": "Heavy Oil Residue",
+                            "QuantityPerMin": "30"
+                        },
+                        {
+                            "Name": "Sulfur",
+                            "QuantityPerMin": "22.5"
+                        },
+                        {
+                            "Name": "Petroleum Coke",
+                            "QuantityPerMin": "22.5"
+                        }
+                    ],
+                    "Output": "45"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Heavy Oil Residue",
+                            "QuantityPerMin": "37.5"
+                        },
+                        {
+                            "Name": "Compacted Coal",
+                            "QuantityPerMin": "30"
+                        }
+                    ],
+                    "Output": "30"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Fuel",
+                            "QuantityPerMin": "22.5"
+                        },
+                        {
+                            "Name": "Compacted Coal",
+                            "QuantityPerMin": "15"
+                        }
+                    ],
+                    "Output": "18.75"
+                }
+            ]
+        },
+        {
+            "Name:": "Water",
+            "Recipes": [
+                {
+                    "Input": [
+                        {
+                            "Name": "Alumina Solution",
+                            "QuantityPerMin": "240"
+                        },
+                        {
+                            "Name": "Coal",
+                            "QuantityPerMin": "120"
+                        }
+                    ],
+                    "Output": "120"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Sulfuric Acid",
+                            "QuantityPerMin": "50"
+                        },
+                        {
+                            "Name": "Alumina Solution",
+                            "QuantityPerMin": "40"
+                        },
+                        {
+                            "Name": "Aluminum Casing",
+                            "QuantityPerMin": "20"
+                        }
+                    ],
+                    "Output": "30"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Uranium Waste",
+                            "QuantityPerMin": "37.5"
+                        },
+                        {
+                            "Name": "Silica",
+                            "QuantityPerMin": "25"
+                        },
+                        {
+                            "Name": "Nitric Acid",
+                            "QuantityPerMin": "15"
+                        },
+                        {
+                            "Name": "Sulfuric Acid",
+                            "QuantityPerMin": "15"
+                        }
+                    ],
+                    "Output": "15"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Packaged Water",
+                            "QuantityPerMin": "120"
+                        }
+                    ],
+                    "Output": "120"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Alumina Solution",
+                            "QuantityPerMin": "180"
+                        },
+                        {
+                            "Name": "Petroleum Coke",
+                            "QuantityPerMin": "60"
+                        }
+                    ],
+                    "Output": "105"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Uranium",
+                            "QuantityPerMin": "25"
+                        },
+                        {
+                            "Name": "Uranium Waste",
+                            "QuantityPerMin": "25"
+                        },
+                        {
+                            "Name": "Nitric Acid",
+                            "QuantityPerMin": "15"
+                        },
+                        {
+                            "Name": "Sulfuric Acid",
+                            "QuantityPerMin": "25"
+                        }
+                    ],
+                    "Output": "40"
+                },
+                {
+                    "Input": [
+                        {
+                            "Name": "Bauxite",
+                            "QuantityPerMin": "150"
+                        },
+                        {
+                            "Name": "Coal",
+                            "QuantityPerMin": "100"
+                        },
+                        {
+                            "Name": "Sulfuric Acid",
+                            "QuantityPerMin": "50"
+                        },
+                        {
+                            "Name": "Water",
+                            "QuantityPerMin": "60"
+                        }
+                    ],
+                    "Output": "50"
+                }
+            ]
+        }
+    ]
+}
